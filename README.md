@@ -1,37 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Film Uygulaması - Next.js 15 ve TailwindCSS**
 
-## Getting Started
+---
 
-First, run the development server:
+## 🎥 **Proje Hakkında**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Bu proje, modern web teknolojilerini kullanarak bir **film arama ve filtreleme** uygulaması geliştirmek için hayata geçirilmiştir. **Next.js 15** tabanında oluşturulan ve **React**'in bileşen tabanlı mimarisi ile desteklenen bu proje, performansı artıran yeni özelliklerden faydalanmaktadır. Arayüz tasarımı için **TailwindCSS** kullanılmış ve kullanıcı dostu bir deneyim hedeflenmiştir. Film verileri ise bir **API entegrasyonu** sayesinde dinamik olarak alınmıştır.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 **Özellikler**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Film Arama**: Kullanıcıların anahtar kelimelerle arama yaparak filmleri bulmalarını sağlar.
+- **Filtreleme**: Popülerlik , en son gelenler ve gelecekler gibi kriterlere göre film sonuçlarını filtreleme.
+- **API Entegrasyonu**: Gerçek zamanlı veri çekme ve listeleme.
+- **Responsive Tasarım**: Her cihaz için optimize edilmiş, modern bir arayüz.
+- **Hızlı Performans**: Next.js 15'in yeni özellikleri sayesinde hızlı sayfa yükleme.
+- **Dark Mode**: Kullanıcı deneyimini artıran tema desteği.
 
-## Learn More
+- # **Movie Application - Next.js 15 and TailwindCSS**
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎥 **About the Project**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project was developed to create a **movie search and filtering** application using modern web technologies. Built on **Next.js 15** and supported by **React's** component-based architecture, this project leverages the latest features for enhanced performance. The user interface is styled with **TailwindCSS**, aiming to deliver a user-friendly experience. Movie data is dynamically fetched through **API integration**.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 **Features**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# movie-app
+- **Movie Search**: Allows users to find movies by searching with keywords.
+- **Filtering**: Filter movie results by popularity, latest arrivals, or upcoming releases.
+- **API Integration**: Real-time data fetching and listing.
+- **Responsive Design**: A modern interface optimized for all devices.
+- **High Performance**: Fast page loading powered by the new features of Next.js 15.
+- **Dark Mode**: Theme support for an enhanced user experience.
