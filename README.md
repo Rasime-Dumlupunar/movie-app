@@ -35,3 +35,5 @@ This project was developed to create a **movie search and filtering** applicatio
 - **Responsive Design**: A modern interface optimized for all devices.
 - **High Performance**: Fast page loading powered by the new features of Next.js 15.
 - **Dark Mode**: Theme support for an enhanced user experience.
+
+![](https://github.com/Rasime-Dumlupunar/movie-app/blob/main/movieapp.gif)
